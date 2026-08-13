@@ -1,3 +1,5 @@
+
+
 # DaoWorld Smart Contract System
 
 A comprehensive smart contracts for Daos.World ecosystem.
@@ -88,7 +90,6 @@ Features:
 ### Prerequisites
 
 - Foundry
-- Node.js
 - Git
 
 ### Installation
